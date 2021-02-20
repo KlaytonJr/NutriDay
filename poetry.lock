@@ -1,0 +1,14 @@
+[[package]]
+category = "main"
+description = "Emoji for Python"
+name = "emoji"
+optional = false
+python-versions = "*"
+version = "0.5.4"
+
+[metadata]
+content-hash = "c174f6f530dd4eba999acac06bc23f5f8effb77c7a19ad997ca3f807df6241b1"
+python-versions = "^3.7"
+
+[metadata.hashes]
+emoji = ["60652d3a2dcee5b8af8acb097c31776fb6d808027aeb7221830f72cdafefc174"]
